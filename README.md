@@ -46,30 +46,4 @@ The year is split into modules (weeks), each with theory + practice + mini-proje
 5. **Computer Vision specialization**  
 6. **Final projects & portfolio**  
 
----
 
-## 📅 Progress Tracker
-
-### Week 1 – NumPy Basics
-- [ ] Day 1: NumPy intro (arrays, indexing, basic ops)  
-- [ ] Day 2: Array operations & broadcasting  
-- [ ] Day 3: Random numbers, statistics  
-- [ ] Day 4: Linear algebra in NumPy  
-- [ ] Day 5: Mini-project (matrix operations & simple image processing)  
-
-### Week 2 – Pandas
-- [ ] Day 1: Series & DataFrames  
-- [ ] Day 2: Data cleaning & preprocessing  
-- [ ] Day 3: GroupBy & aggregation  
-- [ ] Day 4: Merging & joining datasets  
-- [ ] Day 5: Mini-project (data analysis case study)  
-
-*(and so on, for each week)*  
-
----
-
-## 🚀 Usage
-- Open notebooks in Google Colab or Jupyter  
-- Follow daily lessons & complete assignments  
-- Commit progress to GitHub regularly  
-- Update the **Progress Tracker** with ✅ when a task is completed  
