@@ -51,7 +51,7 @@ The year is split into modules (weeks), each with theory + practice + mini-proje
 ## 📅 Progress Tracker
 
 ### Week 1 – NumPy Basics
-- [ ] Day 1: NumPy intro (arrays, indexing, basic ops)  
+- [✅] Day 1: NumPy intro (arrays, indexing, basic ops)  
 - [ ] Day 2: Array operations & broadcasting  
 - [ ] Day 3: Random numbers, statistics  
 - [ ] Day 4: Linear algebra in NumPy  
